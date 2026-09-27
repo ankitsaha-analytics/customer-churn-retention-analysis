@@ -6,6 +6,10 @@ This project presents an end-to-end analysis of customer churn for a telecommuni
 
 The project demonstrates a complete data analytics workflow using **Excel, PostgreSQL, Python, and Power BI** — from data cleaning and exploratory analysis to SQL querying, customer segmentation, visualization, and business recommendations.
 
+## Power BI Dashboard
+
+![Customer Churn & Retention Dashboard](powerbi/Customer_Churn_Retention_Dashboard.png)
+
 ## Business Problem
 
 Customer churn directly impacts recurring revenue and long-term customer value. The analysis focuses on answering the following business questions:
